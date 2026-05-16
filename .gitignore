@@ -1,0 +1,18 @@
+/target
+**/*.rs.bk
+*.pdb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# macOS
+.DS_Store
+
+# AI traces
+CLAUDE.md
+TECHNICAL_ROADMAP.md
+.claude/
